@@ -1,0 +1,12 @@
+.right
+{
+  display:flex;
+  margin-left:570px; 
+  margin-top: auto;
+ 
+  }
+  body
+  {
+     background-image:url('../assets/images/img52.jpg');
+     height:175vh;
+  }
